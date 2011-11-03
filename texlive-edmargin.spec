@@ -1,3 +1,9 @@
+# revision 15878
+# category Package
+# catalog-ctan /macros/latex/contrib/edmargin
+# catalog-date 2008-08-19 08:58:40 +0200
+# catalog-license lppl
+# catalog-version 1.02
 Name:		texlive-edmargin
 Version:	1.02
 Release:	1
@@ -50,6 +56,7 @@ textual notes, emendations, and explanatory notes.
 #- source
 %doc %{_texmfdistdir}/source/latex/edmargin/edmargin.dtx
 %doc %{_texmfdistdir}/source/latex/edmargin/edmargin.ins
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -60,3 +67,5 @@ textual notes, emendations, and explanatory notes.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
