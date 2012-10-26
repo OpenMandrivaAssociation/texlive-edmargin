@@ -5,7 +5,7 @@
 # catalog-license lppl
 # catalog-version 1.2
 Name:		texlive-edmargin
-Version:	1.2
+Version:	1.20
 Release:	1
 Summary:	Multiple series of endnotes for critical editions
 Group:		Publishing
