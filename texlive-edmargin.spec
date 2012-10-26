@@ -1,12 +1,12 @@
-# revision 15878
+# revision 27599
 # category Package
 # catalog-ctan /macros/latex/contrib/edmargin
-# catalog-date 2008-08-19 08:58:40 +0200
+# catalog-date 2012-09-05 10:09:42 +0200
 # catalog-license lppl
-# catalog-version 1.02
+# catalog-version 1.2
 Name:		texlive-edmargin
-Version:	1.02
-Release:	2
+Version:	1.2
+Release:	1
 Summary:	Multiple series of endnotes for critical editions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/edmargin
