@@ -6,7 +6,7 @@
 # catalog-version 1.02
 Name:		texlive-edmargin
 Version:	1.02
-Release:	2
+Release:	3
 Summary:	Multiple series of endnotes for critical editions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/edmargin
