@@ -3,7 +3,7 @@ Version:	27599
 Release:	2
 Summary:	Multiple series of endnotes for critical editions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/edmargin
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/edmargin
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/edmargin.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/edmargin.doc.r%{version}.tar.xz
